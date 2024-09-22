@@ -2,6 +2,6 @@
 
 :health_worker: Ex-medical doctor who fell in love with coding :desktop_computer:
 
-[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,tailwind,react,flask,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,htmx,tailwind,react,django,flask,express)](https://skillicons.dev)
 
 ![Berk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtoy-dev&show_icons=true&bg_color=00000000)
